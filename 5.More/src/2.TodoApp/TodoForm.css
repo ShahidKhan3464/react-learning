@@ -1,0 +1,14 @@
+.TodoForm form {
+    display: flex;
+    justify-content: space-around;
+    height: 30px;
+    margin: 0 4rem;
+}
+
+.TodoForm form label {
+    font-size: 1.5rem;
+}
+
+.TodoForm form input {
+    border-radius: 5px;
+}

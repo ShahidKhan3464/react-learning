@@ -1,0 +1,19 @@
+/* .machine{
+    background-color: lightblue;
+} */
+
+.win {
+    display: inline-block;
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+.lose {
+    display: inline-block;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    letter-spacing: 2px;
+}

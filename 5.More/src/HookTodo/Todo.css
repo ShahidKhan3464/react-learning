@@ -1,0 +1,40 @@
+.Todo {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Todo li {
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+.Todo .edit {
+    position: relative;
+    right: 1rem;
+}
+
+.Todo button {
+    margin-bottom: 2rem;
+    font-size: 17px;
+    border: none;
+    border-radius: 5px;
+    padding: 4px;
+    background: #fe2222c9;
+    color: white;
+    height: 30px;
+}
+
+.Todo form input {
+    height: 25px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.Todo form input[type="text"] {
+    letter-spacing: 2px;
+}
+
+.Todo form button {
+    margin-left: 1rem;
+}
